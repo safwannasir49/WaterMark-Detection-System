@@ -78,5 +78,20 @@ cd WaterMark-Detection-System
 <h2 id="conclusion">Conclusion</h2>
 <p>This project demonstrates a basic system for detecting watermarks in images using image processing techniques. By applying edge detection and contour analysis, the system can identify potential watermarked regions. Future work can enhance the system's accuracy and usability, making it a valuable tool for digital image verification and copyright protection.</p>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+       <a href="mailto:safwannasir49@gmail.com" target="blank">
+        <img align="center" src="https://www.svgrepo.com/show/484206/mail.svg" alt="safwannasir49@gmail.com" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/SafwanNasir49" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/safwan-nasir-955745219" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwa_nasir_linkedln" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/safwan_nasir_" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safwan_nasir_" height="30" width="40" />
+    </a>
+</p>
 </body>
 </html>
