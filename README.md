@@ -56,10 +56,10 @@ cd WaterMark-Detection-System
 
 <h2 id="key-results">Key Results</h2>
 <p>After running the watermark detection algorithm, the system will highlight regions of the image that potentially contain watermarks. The key results include:</p>
-<h3>Detected Watermark</h3>
+<!--<h3>Detected Watermark</h3>
 <p>This image shows the detected watermark regions highlighted in the original image.</p>
 <img src="results/detected_watermark.png" alt="Detected Watermark">
-
+-->
 <h2 id="future-work">Future Work</h2>
 <p>Future enhancements to this project could include:</p>
 <ul>
