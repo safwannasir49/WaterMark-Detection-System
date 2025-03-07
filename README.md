@@ -142,6 +142,11 @@ cd WaterMark-Detection-System
 
 <h2 id="conclusion">Conclusion</h2>
 <p>This project demonstrates a basic system for detecting watermarks in images using various techniques. By applying edge detection, contour analysis, and advanced neural network architectures, the system can identify potential watermarked regions. Future work can enhance the system's accuracy and usability, making it a valuable tool for digital image verification and copyright protection.</p>
+<br>
+<hr/>
+
+
+<br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
